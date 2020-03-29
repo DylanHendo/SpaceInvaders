@@ -183,10 +183,10 @@ while running:
     # for all events
     for event in pygame.event.get():
         # if quit
-        if event.type == pygame.QUIT:           # quit event
+        if event.type == pygame.QUIT:          # quit event
             running = False
         # if space button (shoot)
-        if event.type == pygame.KEYDOWN:        # shoot event
+        if event.type == pygame.KEYDOWN:       # shoot event
             if event.key == pygame.K_SPACE:
                 # max amount of bullets available on screen at once (only 1)
                 if len(bullets) < 1:
