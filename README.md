@@ -11,3 +11,6 @@ Rules:
 - only lowest invader can shoot (can't shoot if invader beneath it)
 - 3 lives
 - if bullets collide, they disappear
+
+
+![Preview](/Users/dylan/PythonProjects/Games/SpaceInvaders/preview.png?raw=true "Title")
