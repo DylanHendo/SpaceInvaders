@@ -13,4 +13,4 @@ Rules:
 - if bullets collide, they disappear
 
 
-![Preview](/Users/dylan/PythonProjects/Games/SpaceInvaders/preview.png?raw=true "Title")
+![Preview](preview.png?raw=true "Title")
